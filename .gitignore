@@ -1,0 +1,26 @@
+# Ambiente Virtual
+venv_manipula/
+
+# Arquivos de compilação do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de configuração do IDE (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+
+# Arquivos temporários ou de backup
+*.bak
+*.swp
+
+# Arquivos de dependências
+*.env
+
+# Arquivo de cache do pip
+pip-log.txt
+
+
