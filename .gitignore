@@ -23,4 +23,6 @@ __pycache__/
 # Arquivo de cache do pip
 pip-log.txt
 
+#Arquivo gerados
+*.xlsx
 

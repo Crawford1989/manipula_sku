@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine
+"""from sqlalchemy import create_engine
 import os
 from dotenv import load_dotenv
 from urllib.parse import quote_plus
@@ -28,4 +28,4 @@ def connect_mssql():
         
         
 if __name__ == "__main__":
-    connect_mssql()
+    connect_mssql()"""

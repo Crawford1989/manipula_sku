@@ -24,7 +24,8 @@ def executa_query():
             sku_formatado = " , ".join(f"'{row[0]}'"for row in result)
             print(sku_formatado)
                 
-        return conn
+            return sku_formatado
+        return None
     
     except Exception as e:
         print(f'Erro: {e}')
